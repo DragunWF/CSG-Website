@@ -1,4 +1,8 @@
-.wrapper {
+::selection {
+  background: #799bc7;
+}
+
+.app {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -463,20 +467,19 @@
 }
 
 .home .overlap-group-2 {
-  position: relative;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
   width: 1316px;
-  height: 1124px;
-  top: -23px;
-  left: 32px;
   background-color: #f6f6f6;
+  padding: 20px;
 }
 
 .home .overlap-2 {
-  position: absolute;
+  position: relative;
   width: 597px;
   height: 100px;
-  top: 66px;
-  left: 43px;
+  margin: 10px;
 }
 
 .home .rectangle-14 {
@@ -1013,7 +1016,7 @@
 
 .home .intersect-2 {
   height: 500px;
-  top: 4138px;
+  top: 2850px;
   left: 0;
   position: absolute;
   width: 1515px;
