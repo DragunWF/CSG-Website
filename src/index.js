@@ -6,7 +6,7 @@ import "./css/styles.css";
 import "./css/index.css";
 import "./css/background.css";
 
-import App from "./App";
+import App from "./components/App";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
