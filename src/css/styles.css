@@ -127,6 +127,31 @@
   border-radius: 0px 0px 100px 100px;
 }
 
+.home .rectangle-69 {
+  position: absolute;
+  width: 396px;
+  height: 387px;
+  top: 876px;
+  left: 122px;
+  background-color: #ffffff;
+  border-radius: 0px 0px 100px 100px;
+}
+
+.home .text-wrapper-69 {
+  position: absolute;
+  width: 287px;
+  top: 1003px;
+  left: 180px;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-weight: 400;
+  color: #173e71;
+  font-size: 20px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
 .home .p {
   position: absolute;
   width: 287px;
@@ -266,6 +291,7 @@
   font-size: 40px;
   letter-spacing: 0;
   line-height: normal;
+  z-index: 1;
 }
 
 .home .college-student {
@@ -367,7 +393,7 @@
 .home .text-wrapper-7 {
   position: absolute;
   top: 912px;
-  left: 1159px;
+  left: 1174px;
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #173e71;

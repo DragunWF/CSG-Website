@@ -63,6 +63,11 @@ export default function HomeSection() {
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
+        <div class="rectangle-69"></div>
+        <p class="text-wrapper-69">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </p>
         <div class="text-wrapper-7">CONTACTS</div>
         <div class="rectangle-11"></div>
         <div class="text-wrapper-8">CLICK LINK</div>
