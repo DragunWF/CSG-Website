@@ -19,22 +19,47 @@ export default function HomeSection() {
           updates, follow our official Facebook page!
         </p>
         <div class="NEWS-UPDATES">NEWS &amp; UPDATES</div>
-
         <div class="rectangle-4"></div>
         <img
           class="intersect"
           src="https://c.animaapp.com/Bfeg6Lq5/img/intersect.png"
           alt="intersect"
         />
-        <div class="rectangle-5"></div>
-        <div class="text-wrapper-2">Home</div>
+        <div class="text-wrapper-2">
+          <a
+            rel="noreferrer"
+            class="nav-link"
+            href="https://www.facebook.com/stiorca.csg"
+            target="_blank"
+          >
+            CSG Facebook
+          </a>
+        </div>
         <img
           class="IMG-2"
           src="https://c.animaapp.com/Bfeg6Lq5/img/img-4577-1@2x.png"
           alt="cover"
         />
-        <div class="text-wrapper-3">Member</div>
-        <div class="text-wrapper-4">Resources</div>
+        <div class="text-wrapper-3">
+          <a
+            href="https://www.facebook.com/ortigascainta.sti.edu"
+            class="nav-link"
+            rel="noreferrer"
+            target="_blank"
+          >
+            STI Ortigas-Cainta
+          </a>
+        </div>
+        <div class="text-wrapper-4">
+          <a
+            rel="noreferrer"
+            class="nav-link"
+            href="https://www.facebook.com/sti.edu"
+            target="_blank"
+          >
+            STI Official Page
+          </a>
+        </div>
         <img
           class="group"
           src="https://c.animaapp.com/Bfeg6Lq5/img/group-3@2x.png"
@@ -47,17 +72,7 @@ export default function HomeSection() {
           <br />
           Government
         </div>
-        <p class="text-wrapper-5">By the students, for the students.</p>
-        <img
-          class="img-2"
-          src="https://c.animaapp.com/Bfeg6Lq5/img/home.svg"
-          alt="rectangle"
-        />
-        <img
-          class="search"
-          src="https://c.animaapp.com/Bfeg6Lq5/img/search.svg"
-          alt="rectangle"
-        />
+        <p class="text-wrapper-5">By the students, for the students.</p>ctangle"
         <div class="rectangle-9"></div>
         <div class="rectangle-10"></div>
         <p class="text-wrapper-6">
@@ -75,9 +90,14 @@ export default function HomeSection() {
         <div class="text-wrapper-7">CONTACTS</div>
         <div class="rectangle-11"></div>
       </div>
-      <div class="div-wrapper">
+      <a
+        rel="noreferrer"
+        class="div-wrapper explore-btn"
+        href="https://www.facebook.com/stiorca.csg"
+        target="_blank"
+      >
         <div class="text-wrapper-9">Explore</div>
-      </div>
+      </a>
     </div>
   );
 }
