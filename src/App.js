@@ -16,7 +16,6 @@ function HomeSection() {
   return (
     <div class="overlap-group">
       <div class="div">
-        <div class="rectangle-2"></div>
         <img
           class="IMG"
           src="https://c.animaapp.com/Bfeg6Lq5/img/img-7623-1.png"
@@ -49,13 +48,11 @@ function HomeSection() {
         />
         <div class="text-wrapper-3">Member</div>
         <div class="text-wrapper-4">Resources</div>
-        <img class="ellipse" src="img/ellipse-2.svg" alt="rectangle" />
         <img
           class="group"
           src="https://c.animaapp.com/Bfeg6Lq5/img/group-3@2x.png"
           alt="rectangle"
         />
-        <img class="rectangle-6" src="img/rectangle-13.svg" alt="rectangle" />
         <div class="MISSION-VISION">MISSION &amp; VISION</div>
         <div class="college-student">
           College <br />
@@ -69,14 +66,11 @@ function HomeSection() {
           src="https://c.animaapp.com/Bfeg6Lq5/img/home.svg"
           alt="rectangle"
         />
-        <img class="rectangle-7" src="img/rectangle-7.svg" alt="rectangle" />
         <img
           class="search"
           src="https://c.animaapp.com/Bfeg6Lq5/img/search.svg"
           alt="rectangle"
         />
-        <img class="rectangle-8" src="img/rectangle-8.svg" alt="rectangle" />
-        <div class="rectangle-9"></div>
         <div class="rectangle-10"></div>
         <p class="text-wrapper-6">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
