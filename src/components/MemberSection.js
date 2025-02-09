@@ -16,7 +16,6 @@ export default function MemberSection() {
         <div class="rectangle"></div>
         <div class="text-wrapper">CSG Officers of 2024-2025</div>
       </div>
-      <img class="rectangle-13" src="img/rectangle-19.svg" alt="rectangle" />
       <div class="frame">
         <div class="overlap-group-2 members">
           {members.map((member) => (

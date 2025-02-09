@@ -13,13 +13,14 @@
   width: 1515px;
   height: 3250px;
   background-color: #ffffff;
-  overflow: hidden;
+  overflow-y: hidden;
+  overflow-x: auto;
 }
 
 /* Extra Small Devices (Phones, less than 576px) */
 @media (max-width: 575px) {
   .home {
-    zoom: 0.25;
+    zoom: 0.3;
   }
 }
 
@@ -77,7 +78,6 @@
 
 .home .overlap-group {
   position: absolute;
-  width: 3295px;
   height: 1364px;
   top: 0;
   left: -34px;
@@ -85,7 +85,6 @@
 
 .home .div {
   position: absolute;
-  width: 3295px;
   height: 1364px;
   top: 0;
   left: 0;
@@ -367,7 +366,6 @@
 
 .home .text-wrapper-7 {
   position: absolute;
-  width: 409px;
   top: 912px;
   left: 1159px;
   font-family: "Poppins-SemiBold", Helvetica;
