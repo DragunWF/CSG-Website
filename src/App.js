@@ -139,7 +139,7 @@ function MemberCard({ name, position }) {
 function Footer() {
   return (
     <img
-      class="intersect-2"
+      class="footer"
       src="https://c.animaapp.com/Bfeg6Lq5/img/intersect-1.png"
       alt="intersect"
     />

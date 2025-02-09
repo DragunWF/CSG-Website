@@ -11,7 +11,7 @@
 .home {
   position: relative;
   width: 1515px;
-  height: 4638px;
+  height: 3250px;
   background-color: #ffffff;
   overflow: hidden;
 }
@@ -1014,7 +1014,7 @@
   left: 43px;
 }
 
-.home .intersect-2 {
+.home .footer {
   height: 500px;
   top: 2850px;
   left: 0;
