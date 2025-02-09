@@ -71,6 +71,7 @@ function HomeSection() {
           src="https://c.animaapp.com/Bfeg6Lq5/img/search.svg"
           alt="rectangle"
         />
+        <div class="rectangle-9"></div>
         <div class="rectangle-10"></div>
         <p class="text-wrapper-6">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
