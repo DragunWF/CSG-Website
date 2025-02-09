@@ -19,7 +19,11 @@ export default function MemberSection() {
       <div class="frame">
         <div class="overlap-group-2 members">
           {members.map((member) => (
-            <MemberCard name={member.name} position={member.position} />
+            <MemberCard
+              name={member.name}
+              position={member.position}
+              link={member.link}
+            />
           ))}
         </div>
       </div>
