@@ -14,8 +14,9 @@ export default function HomeSection() {
         />
         <div class="rectangle-3"></div>
         <p class="p">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Stay informed with the latest news, events, and announcements from the
+          College Student Government of STI Ortigas-Cainta. For real-time
+          updates, follow our official Facebook page!
         </p>
         <div class="NEWS-UPDATES">NEWS &amp; UPDATES</div>
 
@@ -60,17 +61,18 @@ export default function HomeSection() {
         <div class="rectangle-9"></div>
         <div class="rectangle-10"></div>
         <p class="text-wrapper-6">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Need to reach us? Contact the College Student Government of STI
+          Ortigas-Cainta by sending a message on our official Facebook page or
+          via email at csg.stiorca@gmail.com. We're here to help!
         </p>
         <div class="rectangle-69"></div>
         <p class="text-wrapper-69">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          The College Student Government of STI Ortigas-Cainta empowers students
+          through excellence, leadership, and inclusivity, fostering growth and
+          a vibrant community.
         </p>
         <div class="text-wrapper-7">CONTACTS</div>
         <div class="rectangle-11"></div>
-        <div class="text-wrapper-8">CLICK LINK</div>
       </div>
       <div class="div-wrapper">
         <div class="text-wrapper-9">Explore</div>
