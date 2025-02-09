@@ -13,8 +13,28 @@
   width: 1515px;
   height: 3250px;
   background-color: #ffffff;
-  overflow-y: hidden;
-  overflow-x: auto;
+  overflow: hidden;
+}
+
+/* Extra Small Devices (Phones, less than 576px) */
+@media (max-width: 575px) {
+  .home {
+    zoom: 0.25;
+  }
+}
+
+/* Small Devices (Phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767px) {
+  .home {
+    zoom: 0.5;
+  }
+}
+
+/* Medium Devices (Tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px) {
+  .home {
+    zoom: 0.57;
+  }
 }
 
 .home .overlap {
