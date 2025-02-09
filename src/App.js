@@ -3,11 +3,39 @@ import { members } from "./helpers/members";
 function App() {
   return (
     <div class="app">
+      <Background />
       <div class="home">
         <HomeSection />
         <MemberSection />
         <Footer />
       </div>
+    </div>
+  );
+}
+
+function Background() {
+  return (
+    <div class="background">
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
     </div>
   );
 }
@@ -101,7 +129,7 @@ function MemberSection() {
           alt="gradient"
         />
         <div class="rectangle"></div>
-        <div class="text-wrapper">CSG Officers 2024-2025</div>
+        <div class="text-wrapper">CSG Officers of 2024-2025</div>
       </div>
       <img class="rectangle-13" src="img/rectangle-19.svg" alt="rectangle" />
       <div class="frame">
