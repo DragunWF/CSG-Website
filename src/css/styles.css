@@ -1066,3 +1066,8 @@
   position: absolute;
   width: 1515px;
 }
+
+.email {
+  text-decoration: underline;
+  font-style: italic;
+}

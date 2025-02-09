@@ -47,7 +47,7 @@ export default function HomeSection() {
           <br />
           Government
         </div>
-        <p class="text-wrapper-5">By the students, For the students.</p>
+        <p class="text-wrapper-5">By the students, for the students.</p>
         <img
           class="img-2"
           src="https://c.animaapp.com/Bfeg6Lq5/img/home.svg"
@@ -63,7 +63,8 @@ export default function HomeSection() {
         <p class="text-wrapper-6">
           Need to reach us? Contact the College Student Government of STI
           Ortigas-Cainta by sending a message on our official Facebook page or
-          via email at csg.stiorca@gmail.com. We're here to help!
+          via email at <span class="email">csg.stiorca@gmail.com</span>. We're
+          here to help!
         </p>
         <div class="rectangle-69"></div>
         <p class="text-wrapper-69">
