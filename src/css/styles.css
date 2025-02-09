@@ -1,3 +1,9 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .home {
   position: relative;
   width: 1515px;
