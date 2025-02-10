@@ -4,7 +4,12 @@ import MemberCard from "./MemberCard";
 export default function MemberSection() {
   return (
     <div>
-      <img class="rectangle-12" src="img/rectangle-1.svg" alt="rectangle" />
+      <img
+        class="rectangle-12"
+        src="img/rectangle-1.svg"
+        alt="rectangle"
+        draggable="false"
+      />
       <div class="text-wrapper-10">Student Officials</div>
       <div class="text-wrapper-11">Meet our dedicated</div>
       <div class="overlap">
@@ -12,6 +17,7 @@ export default function MemberSection() {
           class="gradient"
           src="https://c.animaapp.com/Bfeg6Lq5/img/gradient.png"
           alt="gradient"
+          draggable="false"
         />
         <div class="rectangle"></div>
         <div class="text-wrapper">CSG Officers of 2024-2025</div>
