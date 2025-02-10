@@ -6,11 +6,13 @@ export default function HomeSection() {
           class="IMG"
           src="https://c.animaapp.com/Bfeg6Lq5/img/img-7623-1.png"
           alt="gradient"
+          draggable="false"
         />
         <img
           class="img"
           src="https://c.animaapp.com/Bfeg6Lq5/img/gradient-1.png"
           alt="gradient"
+          draggable="false"
         />
         <div class="rectangle-3"></div>
         <p class="p">
@@ -24,6 +26,7 @@ export default function HomeSection() {
           class="intersect"
           src="https://c.animaapp.com/Bfeg6Lq5/img/intersect.png"
           alt="intersect"
+          draggable="false"
         />
         <div class="text-wrapper-2">
           <a
@@ -39,6 +42,7 @@ export default function HomeSection() {
           class="IMG-2"
           src="https://c.animaapp.com/Bfeg6Lq5/img/img-4577-1@2x.png"
           alt="cover"
+          draggable="false"
         />
         <div class="text-wrapper-3">
           <a
@@ -64,6 +68,7 @@ export default function HomeSection() {
           class="group"
           src="https://c.animaapp.com/Bfeg6Lq5/img/group-3@2x.png"
           alt="rectangle"
+          draggable="false"
         />
         <div class="MISSION-VISION">MISSION &amp; VISION</div>
         <div class="college-student">
