@@ -6,6 +6,12 @@ a {
   all: unset;
 }
 
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .nav-link {
   text-decoration: underline;
   text-shadow: 1px 1px black;
@@ -25,12 +31,6 @@ a {
 
 .explore-btn:hover {
   transform: translateY(-5px);
-}
-
-.app {
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .home {
@@ -60,6 +60,27 @@ a {
 @media (min-width: 768px) and (max-width: 991px) {
   .home {
     zoom: 0.57;
+  }
+}
+
+/* Large Devices (Desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199px) {
+  .home {
+    zoom: 0.68;
+  }
+}
+
+/* Extra Large Devices (Large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399px) {
+  .home {
+    zoom: 0.85;
+  }
+}
+
+/* Extra Extra Large Devices (Very large screens, 1400px and up) */
+@media (min-width: 1400px) {
+  .home {
+    zoom: 1;
   }
 }
 
