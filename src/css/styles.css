@@ -1,3 +1,9 @@
+:root {
+  --primary-font-size: 20px;
+  --secondary-font-size: 30px;
+  --tertiary-font-size: 40px;
+}
+
 ::selection {
   background: #799bc7;
 }
@@ -192,7 +198,7 @@ a {
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 400;
   color: #173e71;
-  font-size: 20px;
+  font-size: var(--primary-font-size);
   text-align: justify;
   letter-spacing: 0;
   line-height: normal;
@@ -207,7 +213,7 @@ a {
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 400;
   color: #173e71;
-  font-size: 20px;
+  font-size: var(--primary-font-size);
   text-align: justify;
   letter-spacing: 0;
   line-height: normal;
@@ -252,7 +258,7 @@ a {
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #ffffff;
-  font-size: 20px;
+  font-size: var(--primary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
@@ -274,7 +280,7 @@ a {
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #ffffff;
-  font-size: 20px;
+  font-size: var(--primary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
@@ -287,7 +293,7 @@ a {
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #ffffff;
-  font-size: 20px;
+  font-size: var(--primary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
@@ -430,7 +436,7 @@ a {
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 400;
   color: #173e71;
-  font-size: 20px;
+  font-size: var(--primary-font-size);
   text-align: justify;
   letter-spacing: 0;
   line-height: normal;
@@ -466,7 +472,7 @@ a {
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #173e71;
-  font-size: 20px;
+  font-size: var(--primary-font-size);
   text-align: justify;
   letter-spacing: 0;
   line-height: normal;
@@ -491,7 +497,7 @@ a {
   font-family: "Poppins-Bold", Helvetica;
   font-weight: 700;
   color: #ffffff;
-  font-size: 20px;
+  font-size: var(--primary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
@@ -592,7 +598,7 @@ a {
   font-weight: 300;
   font-style: italic;
   color: #646363;
-  font-size: 20px;
+  font-size: var(--primary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
@@ -665,7 +671,7 @@ a {
   font-weight: 300;
   font-style: italic;
   color: #646363;
-  font-size: 20px;
+  font-size: var(--primary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
@@ -727,7 +733,7 @@ a {
   font-weight: 300;
   font-style: italic;
   color: #646363;
-  font-size: 20px;
+  font-size: var(--primary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
@@ -780,7 +786,7 @@ a {
   font-weight: 300;
   font-style: italic;
   color: #646363;
-  font-size: 20px;
+  font-size: var(--primary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
@@ -823,7 +829,7 @@ a {
   font-weight: 300;
   font-style: italic;
   color: #646363;
-  font-size: 20px;
+  font-size: var(--primary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
@@ -866,7 +872,7 @@ a {
   font-weight: 300;
   font-style: italic;
   color: #646363;
-  font-size: 20px;
+  font-size: var(--primary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
@@ -909,7 +915,7 @@ a {
   font-weight: 300;
   font-style: italic;
   color: #646363;
-  font-size: 20px;
+  font-size: var(--primary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
@@ -962,7 +968,7 @@ a {
   font-weight: 300;
   font-style: italic;
   color: #646363;
-  font-size: 20px;
+  font-size: var(--primary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
@@ -1013,7 +1019,7 @@ a {
   font-weight: 300;
   font-style: italic;
   color: #646363;
-  font-size: 20px;
+  font-size: var(--primary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
