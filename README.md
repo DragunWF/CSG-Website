@@ -1,4 +1,4 @@
-# College Student Government (CSG) Website - STI Ortigas-Cainta
+# CSG Website - STI Ortigas-Cainta
 
 Welcome to the official repository for the **College Student Government (CSG)** of **STI Ortigas-Cainta** website! This platform serves as a central hub for information about the organization, its members, and links to the CSG's official social media accounts. The website is designed to keep students informed about the latest updates, events, and opportunities for involvement with the student government.
 
