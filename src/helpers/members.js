@@ -27,12 +27,12 @@ export const members = [
   {
     name: "Gabby Cubelo",
     position: "Treasurer",
-    link: null,
+    link: "https://www.instagram.com/gabbycubelo/",
   },
   {
     name: "Angel Dugan",
     position: "Auditor",
-    link: null,
+    link: "https://www.facebook.com/share/14DSas1uMMT/",
   },
   {
     name: "Nathan Villamor",
