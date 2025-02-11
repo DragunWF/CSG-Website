@@ -227,7 +227,7 @@ a {
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #173e71;
-  font-size: 40px;
+  font-size: var(--tertiary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
@@ -340,7 +340,7 @@ a {
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #173e71;
-  font-size: 40px;
+  font-size: var(--tertiary-font-size);
   letter-spacing: 0;
   line-height: normal;
   z-index: 1;
@@ -449,7 +449,7 @@ a {
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #173e71;
-  font-size: 40px;
+  font-size: var(--tertiary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
@@ -620,7 +620,7 @@ a {
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #2f5a93;
-  font-size: 30px;
+  font-size: var(--secondary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
@@ -684,7 +684,7 @@ a {
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #2f5a93;
-  font-size: 30px;
+  font-size: var(--secondary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
@@ -746,7 +746,7 @@ a {
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #2f5a93;
-  font-size: 30px;
+  font-size: var(--secondary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
@@ -799,7 +799,7 @@ a {
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #2f5a93;
-  font-size: 30px;
+  font-size: var(--secondary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
@@ -842,7 +842,7 @@ a {
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #2f5a93;
-  font-size: 30px;
+  font-size: var(--secondary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
@@ -885,7 +885,7 @@ a {
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #2f5a93;
-  font-size: 30px;
+  font-size: var(--secondary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
@@ -928,7 +928,7 @@ a {
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #2f5a93;
-  font-size: 30px;
+  font-size: var(--secondary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
@@ -981,7 +981,7 @@ a {
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #2f5a93;
-  font-size: 30px;
+  font-size: var(--secondary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
@@ -1032,7 +1032,7 @@ a {
   font-family: "Poppins-SemiBold", Helvetica;
   font-weight: 600;
   color: #2f5a93;
-  font-size: 30px;
+  font-size: var(--secondary-font-size);
   letter-spacing: 0;
   line-height: normal;
 }
