@@ -15,7 +15,7 @@ export default function HomeSection() {
           draggable="false"
         />
         <div className="rectangle-3"></div>
-        <p className="p">
+        <p className="p ios-text-adjust">
           Stay informed with the latest news, events, and announcements from the
           College Student Government of STI Ortigas-Cainta. For real-time
           updates, follow our official Facebook page!
@@ -31,7 +31,7 @@ export default function HomeSection() {
         <div className="text-wrapper-2">
           <a
             rel="noreferrer"
-            className="nav-link"
+            className="nav-link ios-text-adjust"
             href="https://www.facebook.com/stiorca.csg"
             target="_blank"
           >
@@ -47,7 +47,7 @@ export default function HomeSection() {
         <div className="text-wrapper-3">
           <a
             href="https://www.facebook.com/ortigascainta.sti.edu"
-            className="nav-link"
+            className="nav-link ios-text-adjust"
             rel="noreferrer"
             target="_blank"
           >
@@ -57,7 +57,7 @@ export default function HomeSection() {
         <div className="text-wrapper-4">
           <a
             rel="noreferrer"
-            className="nav-link"
+            className="nav-link ios-text-adjust"
             href="https://www.facebook.com/sti.edu"
             target="_blank"
           >
@@ -75,14 +75,14 @@ export default function HomeSection() {
         ctangle"
         <div className="rectangle-9"></div>
         <div className="rectangle-10"></div>
-        <p className="text-wrapper-6">
+        <p className="text-wrapper-6 ios-text-adjust">
           Need to reach us? Contact the College Student Government of STI
           Ortigas-Cainta by sending a message on our official Facebook page or
           via email at <span className="email">csg.stiorca@gmail.com</span>.
           We're here to help!
         </p>
         <div className="rectangle-69"></div>
-        <p className="text-wrapper-69">
+        <p className="text-wrapper-69 ios-text-adjust">
           The College Student Government of STI Ortigas-Cainta empowers students
           through excellence, leadership, and inclusivity, fostering growth and
           a vibrant community.
@@ -96,7 +96,7 @@ export default function HomeSection() {
         href="https://www.facebook.com/stiorca.csg"
         target="_blank"
       >
-        <div className="text-wrapper-9">Explore</div>
+        <div className="text-wrapper-9 ios-text-adjust">Explore</div>
       </a>
     </div>
   );

@@ -3,15 +3,14 @@ import HomeSection from "./HomeSection";
 import MemberSection from "./MemberSection";
 import Footer from "./Footer";
 
-import { AdjustCSSVariables } from "../helpers/utils";
+import AdjustCSSVariables from "./AdjustCSSVariables";
 
 function App() {
-  AdjustCSSVariables();
-
   return (
-    <div class="app">
+    <div className="app">
+      <AdjustCSSVariables />
       <Background />
-      <div class="home">
+      <div className="home">
         <HomeSection />
         <MemberSection />
         <Footer />
