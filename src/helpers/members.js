@@ -12,7 +12,7 @@ export const members = [
   {
     name: "Jayvee Liwanag",
     position: "Internal Vice President",
-    link: null,
+    link: "https://www.facebook.com/jj.lights02",
   },
   {
     name: "Ehl Kurt",
