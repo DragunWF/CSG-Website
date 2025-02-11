@@ -30,11 +30,11 @@ Make sure you have the following tools installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DragunWF/csg-website-sti-ortigas-cainta.git
+   git clone https://github.com/DragunWF/CSG-Website.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd csg-website-sti-ortigas-cainta
+   cd CSG-Website
    ```
 3. Install the dependencies using npm:
    ```bash
