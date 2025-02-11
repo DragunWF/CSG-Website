@@ -1,6 +1,6 @@
 export default function Background() {
   return (
-    <div class="background">
+    <div className="background">
       <span></span>
       <span></span>
       <span></span>

@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <img
-      class="footer"
+      className="footer"
       src="img/footer-gradient.png"
       alt="intersect"
       draggable="false"

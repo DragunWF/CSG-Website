@@ -1,37 +1,37 @@
 export default function HomeSection() {
   return (
-    <div class="overlap-group">
-      <div class="div">
+    <div className="overlap-group">
+      <div className="div">
         <img
-          class="IMG"
+          className="IMG"
           src="img/sti-students.png"
           alt="gradient"
           draggable="false"
         />
         <img
-          class="img"
+          className="img"
           src="img/gradient-1.png"
           alt="gradient"
           draggable="false"
         />
-        <div class="rectangle-3"></div>
-        <p class="p">
+        <div className="rectangle-3"></div>
+        <p className="p">
           Stay informed with the latest news, events, and announcements from the
           College Student Government of STI Ortigas-Cainta. For real-time
           updates, follow our official Facebook page!
         </p>
-        <div class="NEWS-UPDATES">NEWS &amp; UPDATES</div>
-        <div class="rectangle-4"></div>
+        <div className="NEWS-UPDATES">NEWS &amp; UPDATES</div>
+        <div className="rectangle-4"></div>
         <img
-          class="intersect"
+          className="intersect"
           src="img/header-gradient.png"
           alt="intersect"
           draggable="false"
         />
-        <div class="text-wrapper-2">
+        <div className="text-wrapper-2">
           <a
             rel="noreferrer"
-            class="nav-link"
+            className="nav-link"
             href="https://www.facebook.com/stiorca.csg"
             target="_blank"
           >
@@ -39,63 +39,64 @@ export default function HomeSection() {
           </a>
         </div>
         <img
-          class="IMG-2"
+          className="IMG-2"
           src="img/csg-logo.png"
           alt="logo"
           draggable="false"
         />
-        <div class="text-wrapper-3">
+        <div className="text-wrapper-3">
           <a
             href="https://www.facebook.com/ortigascainta.sti.edu"
-            class="nav-link"
+            className="nav-link"
             rel="noreferrer"
             target="_blank"
           >
             STI Ortigas-Cainta
           </a>
         </div>
-        <div class="text-wrapper-4">
+        <div className="text-wrapper-4">
           <a
             rel="noreferrer"
-            class="nav-link"
+            className="nav-link"
             href="https://www.facebook.com/sti.edu"
             target="_blank"
           >
             STI Official Page
           </a>
         </div>
-        <div class="MISSION-VISION">MISSION &amp; VISION</div>
-        <div class="college-student">
+        <div className="MISSION-VISION">MISSION &amp; VISION</div>
+        <div className="college-student">
           College <br />
           Student
           <br />
           Government
         </div>
-        <p class="text-wrapper-5">By the students, for the students.</p>ctangle"
-        <div class="rectangle-9"></div>
-        <div class="rectangle-10"></div>
-        <p class="text-wrapper-6">
+        <p className="text-wrapper-5">By the students, for the students.</p>
+        ctangle"
+        <div className="rectangle-9"></div>
+        <div className="rectangle-10"></div>
+        <p className="text-wrapper-6">
           Need to reach us? Contact the College Student Government of STI
           Ortigas-Cainta by sending a message on our official Facebook page or
-          via email at <span class="email">csg.stiorca@gmail.com</span>. We're
-          here to help!
+          via email at <span className="email">csg.stiorca@gmail.com</span>.
+          We're here to help!
         </p>
-        <div class="rectangle-69"></div>
-        <p class="text-wrapper-69">
+        <div className="rectangle-69"></div>
+        <p className="text-wrapper-69">
           The College Student Government of STI Ortigas-Cainta empowers students
           through excellence, leadership, and inclusivity, fostering growth and
           a vibrant community.
         </p>
-        <div class="text-wrapper-7">CONTACTS</div>
-        <div class="rectangle-11"></div>
+        <div className="text-wrapper-7">CONTACTS</div>
+        <div className="rectangle-11"></div>
       </div>
       <a
         rel="noreferrer"
-        class="div-wrapper explore-btn"
+        className="div-wrapper explore-btn"
         href="https://www.facebook.com/stiorca.csg"
         target="_blank"
       >
-        <div class="text-wrapper-9">Explore</div>
+        <div className="text-wrapper-9">Explore</div>
       </a>
     </div>
   );
