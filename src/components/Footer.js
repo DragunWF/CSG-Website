@@ -5,6 +5,7 @@ export default function Footer() {
       src="img/footer-gradient.png"
       alt="intersect"
       draggable="false"
+      oncontextmenu="return false;"
     />
   );
 }

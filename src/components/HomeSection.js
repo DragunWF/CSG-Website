@@ -7,12 +7,14 @@ export default function HomeSection() {
           src="img/sti-students.png"
           alt="gradient"
           draggable="false"
+          oncontextmenu="return false;"
         />
         <img
           className="img"
           src="img/gradient-1.png"
           alt="gradient"
           draggable="false"
+          oncontextmenu="return false;"
         />
         <div className="rectangle-3"></div>
         <p className="p ios-text-adjust">
@@ -27,6 +29,7 @@ export default function HomeSection() {
           src="img/header-gradient.png"
           alt="intersect"
           draggable="false"
+          oncontextmenu="return false;"
         />
         <div className="text-wrapper-2">
           <a
@@ -43,6 +46,7 @@ export default function HomeSection() {
           src="img/csg-logo.png"
           alt="logo"
           draggable="false"
+          oncontextmenu="return false;"
         />
         <div className="text-wrapper-3">
           <a

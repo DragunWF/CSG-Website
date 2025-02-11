@@ -11,10 +11,16 @@ export default function MemberCard({ name, position, link }) {
             className="member-icon clickable-member-icon"
             src="svg/open-folder.svg"
             alt="icon"
+            oncontextmenu="return false;"
           />
         </a>
       ) : (
-        <img className="member-icon" src="svg/folder.svg" alt="icon" />
+        <img
+          className="member-icon"
+          src="svg/folder.svg"
+          alt="icon"
+          oncontextmenu="return false;"
+        />
       )}
     </div>
   );

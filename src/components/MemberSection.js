@@ -9,6 +9,7 @@ export default function MemberSection() {
         src="img/rectangle-1.svg"
         alt="rectangle"
         draggable="false"
+        oncontextmenu="return false;"
       />
       <div className="text-wrapper-10">Student Officials</div>
       <div className="text-wrapper-11">Meet our dedicated</div>
@@ -18,6 +19,7 @@ export default function MemberSection() {
           src="img/member-section-gradient.png"
           alt="gradient"
           draggable="false"
+          oncontextmenu="return false;"
         />
         <div className="rectangle"></div>
         <div className="text-wrapper">CSG Officers of 2024-2025</div>
