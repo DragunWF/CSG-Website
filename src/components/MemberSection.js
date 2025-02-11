@@ -15,7 +15,7 @@ export default function MemberSection() {
       <div class="overlap">
         <img
           class="gradient"
-          src="https://c.animaapp.com/Bfeg6Lq5/img/gradient.png"
+          src="img/member-section-gradient.png"
           alt="gradient"
           draggable="false"
         />

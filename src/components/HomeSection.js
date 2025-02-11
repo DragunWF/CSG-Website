@@ -4,13 +4,13 @@ export default function HomeSection() {
       <div class="div">
         <img
           class="IMG"
-          src="https://c.animaapp.com/Bfeg6Lq5/img/img-7623-1.png"
+          src="img/sti-students.png"
           alt="gradient"
           draggable="false"
         />
         <img
           class="img"
-          src="https://c.animaapp.com/Bfeg6Lq5/img/gradient-1.png"
+          src="img/gradient-1.png"
           alt="gradient"
           draggable="false"
         />
@@ -24,7 +24,7 @@ export default function HomeSection() {
         <div class="rectangle-4"></div>
         <img
           class="intersect"
-          src="https://c.animaapp.com/Bfeg6Lq5/img/intersect.png"
+          src="img/header-gradient.png"
           alt="intersect"
           draggable="false"
         />
@@ -40,8 +40,8 @@ export default function HomeSection() {
         </div>
         <img
           class="IMG-2"
-          src="https://c.animaapp.com/Bfeg6Lq5/img/img-4577-1@2x.png"
-          alt="cover"
+          src="img/csg-logo.png"
+          alt="logo"
           draggable="false"
         />
         <div class="text-wrapper-3">
@@ -64,12 +64,6 @@ export default function HomeSection() {
             STI Official Page
           </a>
         </div>
-        <img
-          class="group"
-          src="https://c.animaapp.com/Bfeg6Lq5/img/group-3@2x.png"
-          alt="rectangle"
-          draggable="false"
-        />
         <div class="MISSION-VISION">MISSION &amp; VISION</div>
         <div class="college-student">
           College <br />

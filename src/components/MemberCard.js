@@ -9,12 +9,12 @@ export default function MemberCard({ name, position, link }) {
         <a href={link} rel="noreferrer" target="_blank">
           <img
             class="member-icon clickable-member-icon"
-            src="open-folder.svg"
+            src="svg/open-folder.svg"
             alt="icon"
           />
         </a>
       ) : (
-        <img class="member-icon" src="folder.svg" alt="icon" />
+        <img class="member-icon" src="svg/folder.svg" alt="icon" />
       )}
     </div>
   );
