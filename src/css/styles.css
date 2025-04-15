@@ -1134,3 +1134,17 @@ a {
   text-decoration: underline;
   font-style: italic;
 }
+
+.credits {
+  position: absolute;
+  width: 400px;
+  top: 3160px;
+  left: 1142px;
+  text-shadow: 1px 1px black;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-weight: 400;
+  color: white;
+  font-size: var(--primary-font-size);
+  letter-spacing: 0;
+  line-height: normal;
+}
